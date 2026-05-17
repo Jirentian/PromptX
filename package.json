@@ -92,7 +92,8 @@
       "glob": "^10.5.0",
       "file-type": "^21.3.1",
       "esbuild": "^0.25.0",
-      "yargs-parser": "^5.0.1"
+      "yargs-parser": "^5.0.1",
+      "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
     }
   },
   "dependencies": {
