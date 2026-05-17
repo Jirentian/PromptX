@@ -22,10 +22,9 @@
     "@promptx/core": "workspace:*",
     "@promptx/logger": "workspace:*",
     "@promptx/mcp-server": "workspace:*",
-    "commander": "^12.1.0",
-    "chalk": "^5.3.0"
+    "chalk": "^5.6.2",
+    "commander": "^12.1.0"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=18.17.0"
   },
